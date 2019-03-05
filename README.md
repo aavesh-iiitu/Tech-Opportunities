@@ -10,5 +10,4 @@ Cheers to Sharing !
 | Competition | Country | Description | 
 |------------|------|-------|
 | [KPIT Sparkle India](https://sparkle.kpit.com) | India| Technical Competition is held every year|
-
 | [Smart India Hackathon]( https://www.sih.gov.in )| India| Technical Competition organised by Government of India is held every year|

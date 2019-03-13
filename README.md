@@ -17,5 +17,5 @@ Cheers to Sharing !
 [ROBOCON]( https://www.roboconindia.com/)| India| The winner of this competition represents India at International level.|
 [ASME HVPC](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc) )| India| Human Powered Vehicle Challenge (HPVC) is an international competition. National competition organized by ASME India, hosted by one of the member college of ASME India|
 [FAER Scholar Awards](http://www.faer.ac.in/faer)| India| Selects scholars from engineering colleges based on a project in the areas of (1) Computer Science and IT (2) Mobile Communications (3) Renewable Energy Systems (4) Signal Processing (5) Rural technologies (6) Health care Technologies (7) Labour saving Technologies for Women (8) Ecology and Environment (9) Mobile Applications. First and second prize of this competition is upto INR 75,000 and INR 50,000 resp|
-
+[QuEST Ingenium](https://www.questingenium.com/)| India| India's largest engineering competiton organised by QuEST Global Engineering Services India. First and Second prizes are INR 1,00,000 and INR 50,000 respectively. Domains of interest : Mechanical,Mechatronics,Embedded,Automobile,Power Generation,Aerospace,HealthCare,Industrial.
 

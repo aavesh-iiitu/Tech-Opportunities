@@ -1,6 +1,6 @@
 # Tech-Opportunities
 
-This repository shows the list of all Electronics opportunities in upcoming fest , conferences , competitions and etc . 
+This repository shows the list of all Tech-opportunities in upcoming fest , conferences , competitions and etc . 
 Kindly Contribute by sending Pull request and help us all to get more updated ! 
 Cheers to Sharing ! 
 
